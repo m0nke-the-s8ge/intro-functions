@@ -1,0 +1,30 @@
+● Function Definition
+a bunch of code you can use mutiple
+times
+
+● Function Call
+an expression that passes control and
+ arguments (if any) to a function
+
+● Local Variable
+a variable that is only accessible
+ within a specific part of a program.
+
+● Parameter
+a named variable passed into a function
+
+● Argument
+a value that is passed between
+ programs, subroutines or functions.
+
+● Return Variable
+the box that holds the return value
+
+● Return Value
+the output of what you put in
+
+● Modular Development
+
+● Incremental Development
+
+● Function Stub

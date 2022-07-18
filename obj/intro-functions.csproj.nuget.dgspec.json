@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/tarzan/Desktop/intro-functions/intro-functions.csproj": {}
+  },
+  "projects": {
+    "/Users/tarzan/Desktop/intro-functions/intro-functions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/tarzan/Desktop/intro-functions/intro-functions.csproj",
+        "projectName": "intro-functions",
+        "projectPath": "/Users/tarzan/Desktop/intro-functions/intro-functions.csproj",
+        "packagesPath": "/Users/tarzan/.nuget/packages/",
+        "outputPath": "/Users/tarzan/Desktop/intro-functions/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/tarzan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

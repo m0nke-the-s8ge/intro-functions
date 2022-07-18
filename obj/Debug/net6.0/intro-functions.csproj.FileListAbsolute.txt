@@ -1,0 +1,5 @@
+/Users/tarzan/Desktop/intro-functions/obj/Debug/net6.0/intro-functions.csproj.AssemblyReference.cache
+/Users/tarzan/Desktop/intro-functions/obj/Debug/net6.0/intro-functions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tarzan/Desktop/intro-functions/obj/Debug/net6.0/intro-functions.AssemblyInfoInputs.cache
+/Users/tarzan/Desktop/intro-functions/obj/Debug/net6.0/intro-functions.AssemblyInfo.cs
+/Users/tarzan/Desktop/intro-functions/obj/Debug/net6.0/intro-functions.csproj.CoreCompileInputs.cache
